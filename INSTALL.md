@@ -67,7 +67,7 @@ Installation of the library is quite easy:
 
             // File example: script.php
 
-            require_once __DIR__.'my_autoloader.php';
+            require_once __DIR__.'/my_autoloader.php';
 
             use PhpXmlRpc\Value;
             use PhpXmlRpc\Request;
